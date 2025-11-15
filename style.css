@@ -20,14 +20,19 @@ footer {
 }
 
 .card {
-
+  width: 45%;
 }
 
 .left {
-  display: inline-block;
-  
+  float: left;
 }
 
 .right {
-  display: inline-block;
+  float: right;
+}
+
+.tile-image {
+  height: 200px;
+  float: left;
+  margin-right: 50px;
 }
